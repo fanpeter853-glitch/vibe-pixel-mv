@@ -42,3 +42,4 @@ python scripts/mux.py <工程目录> <音源> 30 <成片路径> [封面时刻]
 ## License
 
 MIT
+
